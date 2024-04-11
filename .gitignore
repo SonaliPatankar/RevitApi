@@ -1,0 +1,14 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/RevitApi/AddPanel/.vs/AddPanel/v17
+/RevitApi/AddPanel/.vs/AddPanel/FileContentIndex
+/RevitApi/AddPanel/AddPanel/bin/Debug
+/RevitApi/AddPanel/AddPanel/obj
+/.vs/RevitApi/FileContentIndex
+/.vs
+/RevitApi/HelloWorldApi/.vs/HelloWorldApi/v17
+/RevitApi/HelloWorldApi/HelloWorldApi/bin/Debug
+/RevitApi/HelloWorldApi/HelloWorldApi/obj/Debug
+/RevitApi/HelloWorldApi/.vs/HelloWorldApi/FileContentIndex
