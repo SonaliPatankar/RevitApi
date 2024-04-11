@@ -13,20 +13,21 @@ To use this project, follow these steps:
 3. If necessary, adjust the project settings such as target Revit version, build configurations, etc.
 4. Run Revit.
 5. Load the add-in into Revit:
-   - Copy the compiled .dll file to the Revit Add-ins folder. By default, it's located at:
-     - **For Revit 2021**: C:\ProgramData\Autodesk\Revit\Addins\2021
-     - **For Revit 2022**: C:\ProgramData\Autodesk\Revit\Addins\2022
-     - **For Revit 2023**: C:\ProgramData\Autodesk\Revit\Addins\2023
-     - **For Revit 2024**: C:\ProgramData\Autodesk\Revit\Addins\2024
-6. Launch or reload Revit.
-7. In Revit, navigate to the "Add-ins" tab.
-8. You should see the "Hello World" command listed.
-9. Click on the command.
-10. A TaskDialog will appear displaying the message "Hello World".
-    
-# Revit Add-in: Hello World Panel
+6. In Revit, navigate to the "Add-ins" tab.
+7. You should see the "Hello World" command listed.
+8. Click on the command.
+9. A TaskDialog will appear displaying the message "Hello World".
 
-This Revit add-in creates a custom ribbon panel with a button that triggers a command to display a "Hello World" message using a TaskDialog.
+## Output
+![CreateBuuton](https://github.com/SonaliPatankar/RevitApi/assets/158050645/75c014a4-1231-4709-b43b-cfd0336b3846)
+
+
+![CreateButton](https://github.com/SonaliPatankar/RevitApi/assets/158050645/20daffff-44f6-452d-9e46-06363f862885)
+
+
+# Revit Add-in: Add Panel
+
+This Revit add-in creates a custom ribbon panel with a button that triggers a command to display a "Hello Entire World" message using a TaskDialog.
 
 ## Usage
 
@@ -36,4 +37,8 @@ This Revit add-in creates a custom ribbon panel with a button that triggers a co
 4. Click on the "Hello World" button.
 5. A TaskDialog will appear displaying the message "Hello Entire World".
 
-   
+## Output
+![AddPanel1](https://github.com/SonaliPatankar/RevitApi/assets/158050645/f399fc25-18d9-4aa7-9a68-b9fead4308d3)
+
+
+![AddPanel2](https://github.com/SonaliPatankar/RevitApi/assets/158050645/ea238ffd-5199-4467-b72b-08f9830b68e0)
